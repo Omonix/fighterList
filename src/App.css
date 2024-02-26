@@ -2,3 +2,23 @@ body {
   background-color: black;
   color: white;
 }
+.containerLi {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+}
+.scrollMenuLi {
+  border-bottom: solid 2px;
+  border-color: grey;
+  padding-bottom: 4px;
+  margin-top: 5px;
+}
+.scrollContainer {
+  border: solid 3px;
+  border-color: black;
+  padding: 4px 0px 10px;
+  width: 50px;
+  margin-top: 5px;
+  border-radius: 20px;
+}
