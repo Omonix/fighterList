@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Benoit", 
+        "lastName": "Saint-Denis", 
+        "weight": "Lightweight", 
+        "fight": 14, 
+        "victory": 13, 
+        "defeat": 1, 
+        "eglity": 0, 
+        "no-contest": 1
+    },
+    {
+        "name": "Baysangur",
+        "lastName": "Chamsoudinov",
+        "weight": "welterweight",
+        "fight": 4,
+        "victory": 4,
+        "defeat": 0,
+        "egality": 0,
+        "no-contest": 0
+    }
+]
