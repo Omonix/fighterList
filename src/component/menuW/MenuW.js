@@ -15,7 +15,9 @@ const Menu = ({ options }) => {
   };
   return (
     <div>
-      <div onClick={openUp}>{valueDefault}</div>
+      <div className="buttonMenu" onClick={openUp}>
+        {valueDefault}
+      </div>
       {open && (
         <ul className="scrollContainer">
           {option.map((element, index) => {

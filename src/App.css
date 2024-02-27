@@ -22,3 +22,19 @@ body {
   margin-top: 5px;
   border-radius: 20px;
 }
+.buttonMenu {
+  border: solid 3px;
+  padding: 0.5em 1em;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+}
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.allmenu {
+  display: flex;
+  justify-content: space-around;
+}
